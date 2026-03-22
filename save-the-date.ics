@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Royal Engagement//Barniit & Soumi//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:engagement-20260426-1500@example.com
+DTSTAMP:20260322T150000Z
+DTSTART:20260426T093000Z
+DTEND:20260426T123000Z
+SUMMARY:Engagement Ceremony — Barniit & Soumi
+DESCRIPTION:Join us at Spencers, Meena Icon, Peerless More, BT Road, Sodepur, Kolkata. To Have and To Hold.
+LOCATION:Spencers, Meena Icon, Peerless More, BT Road, Sodepur, Kolkata 700114
+END:VEVENT
+END:VCALENDAR
